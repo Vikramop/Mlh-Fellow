@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,900&family=Nunito:ital,wght@0,400;1,900&display=swap');
+
+body {
+    background-color: #000000;
+    font-family: 'Nunito','Montserrat';
+}
