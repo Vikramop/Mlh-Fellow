@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "name":"Dr Vivek Pandey",
+        "spl":"MBBS,MS(Ortho)",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+        "price":"Book an appointment"
+    },
+    {
+        "id":2,
+        "name":"Dr Alex",
+        "spl":"MBBS,MS(General Medicine)",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://images.unsplash.com/photo-1537368910025-700350fe46c7?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+        "price":"Book an appointment"
+    }
+
+]

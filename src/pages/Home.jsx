@@ -1,10 +1,12 @@
 import React from 'react'
 import{Carousel} from 'react-bootstrap';
 import {Link} from 'react-router-dom';
+import Navbar from '../components/Navbar';
 
 const Home = () => {
   return (
     <>
+    <Navbar/> 
     <Carousel>
   <Carousel.Item interval={2000}>
     <img
